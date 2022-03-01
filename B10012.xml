@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The selling of Joseph a memorial.</title>
+            <author>Sewall, Samuel, 1652-1730.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B10012</idno>
+            <idno type="STC">Wing S2822</idno>
+            <idno type="STC">ESTC W4852</idno>
+            <idno type="EEBO-CITATION">69648929</idno>
+            <idno type="OCLC">ocm 69648929</idno>
+            <idno type="VID">185081</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B10012)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185081)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2886:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The selling of Joseph a memorial.</title>
+                  <author>Sewall, Samuel, 1652-1730.</author>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Bartholomew Green, and John Allen,</publisher>
+                  <pubPlace>Boston of the Massachusets :</pubPlace>
+                  <date>June, 24th. 1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Massachusetts Historical Society Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Slavery in the Bible --  Early works to 1800.</term>
+               <term>Slavery --  Massachusetts --  Early works to 1800.</term>
+               <term>Slavery --  United States --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:185081:1" rendition="simple:additions"/>
+            <pb facs="tcp:185081:1"/>
+            <pb facs="tcp:185081:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:185081:2" rendition="simple:additions"/>
+            <head>The Selling OF JOSEPH A Memorial.</head>
+            <p>
+               <hi>FORASMUCH as</hi> Liberty <hi>is in real value next unto</hi> Life: <hi>None ought to part with it themſelves, or deprive others of it, but upon most mature Conſideration.</hi>
+            </p>
+            <p>The Numerouſneſs of Slaves at this day in the Province, and the Uneaſineſs of them under their Slavery, hath put many upon thinking whether the Foundation of it be firmly and well laid; ſo as to ſuſtain the Vaſt Weight that is built upon it. It is moſt certain that all Men, as they are the Sons of <hi>Adam,</hi> are Coheirs; and have equal Right unto Liberty, and all other outward Comforts of Life. <hi>GOD hath given the Earth</hi> [with all its Commodities] <hi>unto the Sons of</hi> Adam, <hi>Pſal</hi> 115. 16. <hi>And hath made of One Blood, all Nations of Men, for to dwell on all the face of the Earth: and hath determined the Times before appointed, and the bounds of their habitation: That they ſhould ſeek the Lord. Foraſmuch then as we are the Offspring of GOD</hi> &amp;c. <hi>Act</hi> 17.26, 27, 29. Now although the Tide given by the laſt ADAM, doth infinitely better Mens Eſtates, reſpecting GOD and themſelves; and grants them a moſt beneficial and inviolable Leaſe under the Broad Seal of Heaven, who were before only Tenants at Will: Yet through the Indulgence of GOD to our Firſt Parents after the Fall, the outward Eſtate of all and every of their Children, remains the ſame, as to one another. So that Originally, and Naturally, there is no ſuch thing as Slavery. <hi>Joſeph</hi> was rightfully no more a Slave to his Brethren than they were to him: and they had no more Authority to <hi>Sell</hi> him, than they had to <hi>Slay</hi> him. And if <hi>they</hi> had nothing to do to Sell him; the <hi>Iſhmaelices</hi> bargaining with them, and paying down Twenty pieces of Silver, could not make a Title. Neither could <hi>Potiphar</hi> have any better Intereſt in him than the <hi>Iſhmaelices</hi> had. <hi>Gen.</hi> 37.20, 27, 28. For he that ſhall in this caſe plead <hi>Alteration of Proverty,</hi> ſeems to have <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a great part of his own claim to Humanity. There is no proportion between Twenty Pieces of Silver, and LIBERTY. The Commodity it ſelf is the Claimer. If <hi>Arabian</hi> Gold be imported in any quantities, moſt are afraid to meddle with it, though they might have it at eaſy rates; leſt if it ſhould have been wrongfully taken from the Owners, it ſhould kindle a fire to the Conſumption of their whole Eſtate. 'Tis pity there ſhould be more Caution uſed in buying a Horſe, or a little lifeleſs duſt; than there is in purchaſing Men and Women: Whenas they are the Offspring of GOD, and their Liberty is,</p>
+            <q>— Auro pretioſior Omni.</q>
+            <p>And ſeeing GOD hath ſaid, <hi>He that Stealeth a Man and Selleth him, or if he be found in his hand, he ſhall ſurely be put to Death.</hi> Exod. 21.16. This Law being of E<g ref="char:EOLhyphen"/>verlaſting Equity, wherein Man Stealing is ranked amongſt the moſt atrocious of Capital Crimes: What louder Cry can there be made of that Celebrated Warning.</p>
+            <q>
+               <hi>Caveat Emptor!</hi>
+            </q>
+            <pb n="2" facs="tcp:185081:3"/>
+            <p>And all things conſidered, it would conduce more to the Welfare of the Province, to have White Servants for a Term of Years, than to have Slaves for Life. Few can endure to hear of a Negro's being made free; and indeed they can ſeldom uſe their freedom well; yet their continual aſpiring after their forbidden Liberty, ren<g ref="char:EOLhyphen"/>ders them Unwilling Servants. And there is ſuch a diſparity in their Conditions, Colour &amp; Hair, that they can never embody with us, and grow up into orderly Families, to the Peopling of the Land: but ſtill remain in our Body Politick as a kind of extra<g ref="char:EOLhyphen"/>vaſat Blood. As many Negro men as there are among us, ſo many empty places there are in our Train Bands, and the places taken up of Men that might make Husbands for our Daughters. And the Sons and Daughters of <hi>New England</hi> would become more like <hi>Jacob,</hi> and <hi>Rachel,</hi> if this Slavery were thruſt quite out of doors. Moreover it is too well known what Temptations Maſters are under, to connive at the Fornication of their Slaves; leſt they ſhould be obliged to find them Wives, or pay their Fines. It ſeems to be practically pleaded that they might be Lawleſs; 'tis thought much of, that the Law ſhould have Satisfaction for their Thefts, and other Immoralities; by which means, <hi>Holineſs to the Lord,</hi> is more rarely engraven upon this ſort of Servitude. It is likewiſe moſt lamentable to think, how in taking Negros out of <hi>Africa,</hi> and Selling of them here, That which GOD ha's joyned together men do boldly rend aſunder; Men from their Country, Husbands from their Wives, Parents from their Children. How horrible is the Uncleanneſs, Mortality, if not Murder, that the Ships are guilty of that bring great Crouds of theſe miſerable Men, and Women. Methinks, when we are bemoaning the barbarous Uſage of our Friends and Kinsfolk in <hi>Africa:</hi> it might not be unſeaſonable to enquire whether we are not culpable in forcing the <hi>Africans</hi> to become Slaves amongſt our ſelves. And it may be a queſtion whether all the Benefit received by <hi>Negro</hi> Slaves, will balance the Accompt of Caſh laid out upon them; and for the Redemption of our own enſlaved Friends out of <hi>Africa.</hi> Beſides all the Perſons and Eſtates that have periſhed there.</p>
+            <p>Obj. 1. <hi>Theſe Blackamores are of the Posterity of</hi> Cham, <hi>and therefore are under the Curſe of Slavery.</hi> Gen. 9.25, 26, 27.</p>
+            <p>
+               <hi>Anſw.</hi> Of all Offices, one would not begg this; <hi>viz.</hi> Uncall'd for, to be an Execu<g ref="char:EOLhyphen"/>tioner of the Vindictive Wrath of God; the extent and duration of which is to us uncertain If this ever was a Commiſſion; How do we know but that it is long ſince out of Date? Many have found it to their Coſt, that a Prophetical Denunci<g ref="char:EOLhyphen"/>ation of Judgment againſt a Perſon or People, would not warrant them to inflict that evil. If it would, <hi>Hazael</hi> might juſtify himſelf in all he did againſt his Maſter, and the <hi>Iſraelites,</hi> from 2 <hi>Kings</hi> 8.10, 12.</p>
+            <p>But it is poſſible that by curſory reading, this Text may have been miſtaken. For <hi>Canaan</hi> is the Perſon Curſed three times over, without the mentioning of <hi>Cham.</hi> Good Expoſitors ſuppoſe the Curſe entaild on him; and that this Propheſie was accom<g ref="char:EOLhyphen"/>pliſhed in the Extirpation of the <hi>Canaanites,</hi> and in the Servitude of the <hi>Gibeonites. Vide Pareum.</hi> Whereas the Blackmores are not deſcended of <hi>Canaan,</hi> but of <hi>Cuſh.</hi> Pſal. 68.31. <hi>Princes ſhall come out of Egypt</hi> [Mizraim] <hi>Ethiopia</hi> [Cuſh] <hi>ſhall ſoon ſtretch out her hands unto God.</hi> Under which Names, all <hi>Africa</hi> may be compre<g ref="char:EOLhyphen"/>hended; and their Promiſed Converſion ought to be prayed for. <hi>Jer.</hi> 13.23. <hi>Can the Ethiopian change his Skin?</hi> This ſhews that Black Men are the Poſterity of <hi>Cuſh:</hi> Who time out of mind have been diſtinguiſhed by their Colour. And for want of the true, <hi>Ovid</hi> aſſigns a fabulous cauſe of it.</p>
+            <q>
+               <l>Sanguine tum credunt in corpora ſumma vocato</l>
+               <l>Aethiopum populos nigrum traxiſſe colorem.</l>
+               <bibl>
+                  <hi>Metamorph. lib. 2.</hi>
+               </bibl>
+            </q>
+            <p>Obj. 2. <hi>The</hi> Nigers <hi>are brought out of a Pagan Country, into places where the Goſpel is Preached.</hi>
+            </p>
+            <pb n="3" facs="tcp:185081:3"/>
+            <p>
+               <hi>Anſw.</hi> Evil muſt not be done, that good may come of it. The extraordinary and comprehenſive Benefit accruing to the Church of God, and to <hi>Joſeph</hi> perſonally, did not rectify his brethrens Sale of him.</p>
+            <p>Obj. 3. <hi>The</hi> Africans <hi>have Wars one with another: Our Ships bring lawful Captives taken in thoſe Wars.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> For ought is known, their Wars are much ſuch as were between <hi>Jacob's</hi> Sons and their Brother <hi>Joſeph.</hi> If they be between Town and Town; Provincial, or National: Every War is upon one ſide Unjuſt. An Unlawful War can't make law<g ref="char:EOLhyphen"/>ful Captives. And by Receiving, we are in danger to promote, and partake in their Barbarous Cruelties. I am ſure, if ſome Gentlemen ſhould go down to the <hi>Brewſters</hi> to take the Air, and Fiſh: And a ſtronger party from <hi>Hull</hi> ſhould Surpriſe them, and Sell them for Slaves to a Ship outward bound: they would think themſelves unjuſtly dealt with; both by Sellers and Buyers. And yet 'tis to be feared, we have no other kind of Title to our <hi>Nigers. Therefore all things whatſoever ye would that men ſhould do to you, do ye even ſo to them: for this is the Law and the Prophets.</hi> Matt. 7.12.</p>
+            <p>Obj. 4. Abraham <hi>had Servants bought with his Money, and born in his Houſe.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Until the Circumſtances of <hi>Abraham's</hi> purchaſe be recorded, no Argument can be drawn from it. In the mean time, Charity obliges us to conclude, that He knew it was lawful and good.</p>
+            <p>It is Obſervable that the <hi>Iſraelites</hi> were ſtrictly forbidden the buying, or ſelling one another for Slaves <hi>Levit.</hi> 25.39, 46. <hi>Jer</hi> 34.8. — 22. And GOD gaged His Bleſſing in lieu of any loſs they might conceipt they ſuffered thereby. <hi>Deut.</hi> 15.18. And ſince the partition Wall is broken down, inordinate Self love ſhould likewiſe be demoliſhed. GOD expects that Chriſtians ſhould be of a more Ingenuous and benign frame of ſpirit. Chriſtians ſhould carry it to all the World, as the <hi>Iſraelites</hi> were to carry it one towards another. And for men obſtinately to perſiſt in holding their Neighbours and Brethren under the Rigor of perpetual Bondage, ſeems to be no proper way of gaining Aſſurance that God ha's given them Spiritual Freedom. Our Bleſſed Saviour ha's altered the Meaſures of the ancient Love-Song, and ſet it to a moſt Excellent New Tune, which all ought to be ambitious of Learning. <hi>Matt.</hi> 5.43, 44. <hi>John</hi> 13.34 Theſe <hi>Ethiopians,</hi> as black as they are; ſeeing they are the Sons and Daughters of the Firſt <hi>Adam,</hi> the Brethren and Siſters of the Laſt ADAM, and the Offspring of GOD; They ought to be treated with a Reſpect agreeable.</p>
+            <q>
+               <p>Servitus perfecta voluntaria, inter Christianum &amp; Chriſtianum, ex parte ſervi patientis ſaepe eſt licita, quia eſt neceſſaria: ſed ex parte domini agentis, &amp; pro<g ref="char:EOLhyphen"/>curando &amp; exercendo, vix potest eſſe licita: quia non convenit regulae illi generali: Quaecunque volueritis ut faciant vobis homines, ita &amp; vos facite eis.</p>
+               <bibl>
+                  <hi>Matt. 7.12.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Perfecta ſervitus poenae, non potest jure locum habere, niſi ex delicto gravi quod ultimum ſupplicium aliquo modo meretur: quia Libertas ex naturali aeſtimatione proxime accedit ad vitam ipſam, &amp; eidem a multis praeferri ſolet.</p>
+               <bibl>
+                  <hi>Ames. Caſ. Conſc. Lib. 5. Cap. 23. Theſ. 2, 3.</hi>
+               </bibl>
+            </q>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>BOSTON <hi>of the</hi> Maſſachuſets; Printed by <hi>Bartholomew Green,</hi> and <hi>John Allen,</hi> June, <hi>24th.</hi> 1700.</p>
+            <pb facs="tcp:185081:4"/>
+         </div>
+      </back>
+   </text>
+</TEI>
